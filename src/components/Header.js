@@ -7,7 +7,7 @@ const Header = () => {
 			<p>
 				I am using my key {key} on port {port}
 			</p>
-			<p>My password is {pass}</p>
+			<p>My password is hidden</p>
 		</>
 	);
 };
